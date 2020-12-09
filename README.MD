@@ -28,5 +28,4 @@ Mostly in C++, but I have my sights on some other programming languages that I w
 | Day Twenty-two |     |         |
 | Day Twenty-three |     |         |
 | Day Twenty-four |     |         |
-| Day Twenty-five |     |         |
-| Day Twenty- |     |         
+| Day Twenty-five |     |         | 
