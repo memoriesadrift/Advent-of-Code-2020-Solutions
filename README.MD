@@ -13,8 +13,8 @@ Mostly in C++, but I have my sights on some other programming languages that I w
 | Day Seven | Done    | Done        |
 | Day Eight | Done    | Done        |
 | Day Nine | Done    | Done        |
-| Day Ten |     |         |
-| Day Eleven |     |         |
+| Day Ten |Done|Done|
+| Day Eleven |Done|Done|
 | Day Twelve |     |         |
 | Day Thirteen |     |         |
 | Day Fourteen |     |         |
