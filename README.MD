@@ -6,7 +6,7 @@ Mostly in C++, but I have my sights on some other programming languages that I w
 | --- | ----------- | ----------- |
 | Day One | Done    | Done        |
 | Day Two | Done    | Done        |
-| Day Three | Done    | Done        |
+| Day Three | missing???    | missing???        |
 | Day Four | Done    |         |
 | Day Five | Done    | Done        |
 | Day Six | Done    | Done        |
