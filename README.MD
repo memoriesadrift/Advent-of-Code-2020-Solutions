@@ -16,7 +16,7 @@ Mostly in C++, but I have my sights on some other programming languages that I w
 | Day Ten |Done|Done|
 | Day Eleven |Done|Done|
 | Day Twelve |Done|Done|
-| Day Thirteen |     |         |
+| Day Thirteen |Done|Done|
 | Day Fourteen |     |         |
 | Day Fifteen |     |         |
 | Day Sixteen |     |         |
