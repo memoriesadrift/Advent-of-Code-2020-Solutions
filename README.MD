@@ -4,19 +4,19 @@ Mostly in C++, but I have my sights on some other programming languages that I w
   
 | Day | Challenge 1 | Challenge 2 |
 | --- | ----------- | ----------- |
-| Day One | Done    | Done        |
-| Day Two | Done    | Done        |
-| Day Three | missing???    | missing???        |
-| Day Four | Done    |         |
-| Day Five | Done    | Done        |
-| Day Six | Done    | Done        |
-| Day Seven | Done    | Done        |
-| Day Eight | Done    | Done        |
-| Day Nine | Done    | Done        |
-| Day Ten |Done|Done|
-| Day Eleven |Done|Done|
-| Day Twelve |Done|Done|
-| Day Thirteen |Done|Done|
+| Day One | C++    | C++        |
+| Day Two | C++    | C++        |
+| Day Three | Ruby   | Ruby        |
+| Day Four | C++    |         |
+| Day Five | C++    | C++        |
+| Day Six | C++    | C++        |
+| Day Seven | C++    | C++        |
+| Day Eight | C++    | C++        |
+| Day Nine | C++    | C++        |
+| Day Ten |C++|C++|
+| Day Eleven |C++|C++|
+| Day Twelve |C++|C++|
+| Day Thirteen |C++|C++|
 | Day Fourteen |     |         |
 | Day Fifteen |     |         |
 | Day Sixteen |     |         |
