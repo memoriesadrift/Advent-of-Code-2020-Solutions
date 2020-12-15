@@ -17,8 +17,8 @@ Mostly in C++, but I have my sights on some other programming languages that I w
 | Day Eleven |C++|C++|
 | Day Twelve |C++|C++|
 | Day Thirteen |C++|C++|
-| Day Fourteen |     |         |
-| Day Fifteen |     |         |
+| Day Fourteen |C++\*|C++\*|
+| Day Fifteen |C++|C++|
 | Day Sixteen |     |         |
 | Day Seventeen |     |         |
 | Day Eighteen |     |         |
@@ -29,3 +29,6 @@ Mostly in C++, but I have my sights on some other programming languages that I w
 | Day Twenty-three |     |         |
 | Day Twenty-four |     |         |
 | Day Twenty-five |     |         | 
+
+
+* I am not satisfied with my solution and will post it when/if it is in a state I like
